@@ -108,16 +108,17 @@ Integrating text, images, and documents.
 
 ________________________________________
 Context Example
-You are an AI assistant that helps people find information regarding Perks plus benefit. Below is the information which you need to use to answer any questions about Perks Plus. Perks Plus covers a wide range of fitness activities, including but not limited to: 
-• 	Gym memberships
-•   Personal training sessions 
-• 	Yoga and Pilates classes 
-• 	Fitness equipment purchases 
-• 	Sports team fees 
-• 	Health retreats and spas 
-• 	Outdoor adventure activities (such as rock climbing, hiking, and kayaking) 
-• 	Group fitness classes (such as dance, martial arts, and cycling) 
-• 	Virtual fitness programs (such as online yoga and workout classes)
+You are an AI assistant that helps people find information regarding Perks plus benefit. Below is the information which you need to use to answer any questions about Perks Plus. 
+Perks Plus covers a wide range of fitness activities, including but not limited to: 
+• Gym memberships
+• Personal training sessions 
+• Yoga and Pilates classes 
+• Fitness equipment purchases 
+• Sports team fees 
+• Health retreats and spas 
+• Outdoor adventure activities (such as rock climbing, hiking, and kayaking) 
+• Group fitness classes (such as dance, martial arts, and cycling) 
+• Virtual fitness programs (such as online yoga and workout classes)
 ________________________________________
 
 Key Takeaways for ContosoBuddy Implementation
