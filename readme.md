@@ -26,22 +26,22 @@ The workshop includes exercises and tutorials to help participants evaluate and 
 ## Getting Started
 
 1. Follow the setup instructions in `Day-1/1.1-Project Set Up.md`
-2. Work through the prompt engineering guide in `Day-1/1.2-Prompt Engineering.md`
+2. Work through the prompt engineering guide in `Day-1/1.2-1.2.1-Prompt Engineering Using Playground.md`
 3. Complete data indexing exercises (RAG) in `1.3.1` and `1.3.2`
-4. Follow the evaluation guide in `Day-1/1.4.1-evaluation.md`
-5. Deploy your web app using instructions in `Day-1/1.4.2-deploy_webapp.md`
+4. Follow the evaluation guide in `Day-1/1.4.1-Evaluation.md`
+5. Deploy your web app using instructions in `Day-1/1.4.2-1.4.2-Deploy Webapp From AI Foundry Playground.md`
 
 ## Prerequisites
 
 - An Azure subscription
 - Access to the Azure AI Foundry portal
 - Permissions to create resource groups, resources and set up required permissions 
-- Prior understanding of Azure services, Permissions - IAM, RBAC roles etc.
+- Prior understanding of Basics of Azure, Azure services, Permissions - IAM, RBAC roles etc.
 
 
 ## Use Case
 
-This workshop (Day 1) implements ContosoBuddy, an AI assistant for Contoso Electronics that helps employees navigate HR, logistics, travel, and benefit-related questions.
+This workshop (Day 1) implements ContosoBuddy, an AI assistant for Contoso Electronics that helps employees navigate HR, logistics, travel, and benefit-related questions. Day-1 section focuses on no code approach using Azure AI Foundry portal.
 
 ## Disclaimer
 
