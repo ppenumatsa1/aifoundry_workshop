@@ -9,7 +9,7 @@ The workshop includes exercises and tutorials to help participants evaluate and 
   - `benefits.zip`: Contains benefits-related files for the workshop.
   - `NW_HealthPlan_Standard_Dataset.jsonl`: Dataset used for evaluation exercises.
   - `benefits-dataset-eval`: Dataset used for evaluation exercises
-- `day1/`
+- `Day-1/`
   - `1.0-Usecase.md`: Introduction to Contoso Electronics use case
   - `1.1-Project Set Up.md`: Instructions for setting up AI Foundry project
   - `1.2-Prompt Engineering.md`: Guide for different types of prompts
@@ -17,18 +17,18 @@ The workshop includes exercises and tutorials to help participants evaluate and 
   - `1.3.2-Integrated Vector Indexing.md`: Guide for integrated vectorization
   - `1.4.1-evaluation.md`: Instructions for evaluating application performance
   - `1.4.2-deploy_webapp.md`: Instructions for deploying the web app
-- `day2/`
+- `Day-2/`
   - Placeholder for Day 2 activities
 - `images/`
   - Contains images used in the markdown files
 
 ## Getting Started
 
-1. Follow the setup instructions in `day1/1.1-Project Set Up.md`
-2. Work through the prompt engineering guide in `day1/1.2-Prompt Engineering.md`
+1. Follow the setup instructions in `Day-1/1.1-Project Set Up.md`
+2. Work through the prompt engineering guide in `Day-1/1.2-Prompt Engineering.md`
 3. Complete data indexing exercises (RAG) in `1.3.1` and `1.3.2`
-4. Follow the evaluation guide in `day1/1.4.1-evaluation.md`
-5. Deploy your web app using instructions in `day1/1.4.2-deploy_webapp.md`
+4. Follow the evaluation guide in `Day-1/1.4.1-evaluation.md`
+5. Deploy your web app using instructions in `Day-1/1.4.2-deploy_webapp.md`
 
 ## Prerequisites
 
