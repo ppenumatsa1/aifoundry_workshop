@@ -10,6 +10,7 @@ The workshop includes exercises and tutorials to help participants evaluate and 
   - `NW_HealthPlan_Standard_Dataset.jsonl`: Dataset used for evaluation exercises.
   - `benefits-dataset-eval`: Dataset used for evaluation exercises
 - `Day-1/`
+    This section focuses on building end to end RAG use case using Azure AI Foundry Portal. 
   - `1.0-Usecase.md`: Introduction to Contoso Electronics use case
   - `1.1-Project Set Up.md`: Instructions for setting up AI Foundry project
   - `1.2-Prompt Engineering.md`: Guide for different types of prompts
